@@ -1,0 +1,8 @@
+Hallo! Dies ist der Inhalt meiner Textdatei.
+Hier können Sie beliebigen Text einfügen.
+Zum Beispiel:
+- Eine Einkaufsliste mit Obst, Gemüse und anderen Lebensmitteln.
+- Notizen zu einem Buch, das Sie gerade lesen.
+- Ein selbst verfasstes Gedicht oder eine Kurzgeschichte.
+- Programmcode in einer bestimmten Programmiersprache.
+- Eine Liste von Zielen oder Aufgaben für den Tag.
